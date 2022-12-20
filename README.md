@@ -1,1 +1,1 @@
-# undangaku adalah layanan untuk membuat undangan digital
+# undangaku adalah jasa pembuatan undangan digital secara custom sesuai permintaan user
